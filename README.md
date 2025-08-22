@@ -11,12 +11,12 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/masumi-desai-22573a24a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="masumi-desai-22573a24a" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/masumi-desai-22573a24a/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="masumi-desai-22573a24a" height="30" width="40" /></a>
 
 <h3 align="left">My profiles:</h3>
-<a href="https://www.kaggle.com/masumidesai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="masumidesai" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/Masumi_18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Masumi_18" height="30" width="40" /></a>
-<a href="https://leetcode.com/masumi_desai/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="masumi_desai" height="30" width="40" /></a>
+<a href="https://www.kaggle.com/masumidesai" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="masumidesai" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/Masumi_18" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Masumi_18" height="30" width="40" /></a>
+<a href="https://leetcode.com/masumi_desai/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="masumi_desai" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
