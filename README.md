@@ -3,7 +3,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&background=FF000000&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Masumi" alt="Typing SVG">
   </a>
 </h1>
-<p align="justify">I am a student at IIIT Hyderabad and my interests include programming, machine learning and problem solving.</p>
+<p align="justify">I am an ECE senior at IIIT Hyderabad and my interests include programming, machine learning and problem solving.</p>
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=freshcoder-04&label=Profile%20views&color=0e75b6&style=flat" alt="freshcoder-04" /> </p> -->
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=freshcoder-04" alt="freshcoder-04" /></a> </p> -->
